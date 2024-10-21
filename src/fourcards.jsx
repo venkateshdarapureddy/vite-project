@@ -206,7 +206,7 @@ function FourCrads() {
                 
                 <Box className="flex justify-between pb-5 border-b-2">
                     <Box className="flex gap-[16px] justify-center items-center">
-                    <Avatar alt="Remy Sharp" src="public/assets/11.jpg" /> 
+                    <Avatar alt="Remy Sharp" src="/assets/11.jpg" /> 
                     <Typography variant="subtitle1" fontWeight="700" fontSize="14px" className='text-black' fontFamily="pulic-sans">
                     Emma Richardson
                    </Typography>
@@ -230,7 +230,7 @@ function FourCrads() {
 
                 <Box className="flex justify-between pb-5 pt-5 border-b-2">
                     <Box className="flex gap-[16px] justify-center items-center">
-                    <Avatar alt="Remy Sharp" src="public/assets/12.jpg" /> 
+                    <Avatar alt="Remy Sharp" src="/assets/12.jpg" /> 
                     <Typography variant="subtitle1" fontWeight="700" fontSize="14px" className='text-black' fontFamily="pulic-sans">
                     Savory Bites Bistro
                    </Typography>
@@ -253,7 +253,7 @@ function FourCrads() {
 
                 <Box className="flex justify-between pb-5 pt-5 border-b-2">
                     <Box className="flex gap-[16px] justify-center items-center">
-                    <Avatar alt="Remy Sharp" src="public/assets/11.jpg" /> 
+                    <Avatar alt="Remy Sharp" src="/assets/11.jpg" /> 
                     <Typography variant="subtitle1" fontWeight="700" fontSize="14px" className='text-black' fontFamily="pulic-sans">
                     Daniel Carter
                    </Typography>
@@ -277,7 +277,7 @@ function FourCrads() {
 
                 <Box className="flex justify-between pb-5 pt-5 border-b-2">
                     <Box className="flex gap-[16px] justify-center items-center">
-                    <Avatar alt="Remy Sharp" src="public/assets/12.jpg" /> 
+                    <Avatar alt="Remy Sharp" src="/assets/12.jpg" /> 
                     <Typography variant="subtitle1" fontWeight="700" fontSize="14px" className='text-black' fontFamily="pulic-sans">
                   Sun Park
                    </Typography>
@@ -301,7 +301,7 @@ function FourCrads() {
 
                  <Box className="flex justify-between pb-5 pt-5 border-b-2">
                     <Box className="flex gap-[16px] justify-center items-center">
-                    <Avatar alt="Remy Sharp" src="public/assets/11.jpg" /> 
+                    <Avatar alt="Remy Sharp" src="/assets/11.jpg" /> 
                     <Typography variant="subtitle1" fontWeight="700" fontSize="14px" className='text-black' fontFamily="pulic-sans">
                     Urban Services Hub
                    </Typography>
